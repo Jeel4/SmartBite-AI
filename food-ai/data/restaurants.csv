@@ -1,0 +1,26 @@
+id,name,cuisine,rating,price,location,type,vegetarian,delivery_time,description
+1,Spice Garden,Indian,4.5,250,Koregaon Park,Casual,True,30,Authentic North Indian curries with aromatic spices
+2,La Bella Italia,Italian,4.3,600,Kalyani Nagar,Fine Dining,False,45,Handcrafted pasta and wood-fired pizzas from Naples
+3,Dragon Palace,Chinese,4.1,350,Viman Nagar,Casual,False,35,Traditional dim sum and wok-tossed specialties
+4,Burger Barn,American,4.0,200,Wakad,Fast Food,False,20,Juicy smash burgers with secret sauce
+5,Zen Garden,Japanese,4.6,700,Baner,Fine Dining,False,50,Omakase sushi and ramen crafted by master chefs
+6,Mumbai Masala,Indian,4.4,180,Hadapsar,Fast Food,True,25,Street-style chaats and Mumbai specialties
+7,Pizza Pronto,Italian,4.2,400,Hinjewadi,Casual,True,30,Crispy thin-crust pizzas with fresh toppings
+8,Chopstick House,Chinese,3.9,300,Pimpri,Casual,True,40,Vegetarian-friendly Chinese with mock meats
+9,The Smokehouse,American,4.7,800,Koregaon Park,Fine Dining,False,60,Premium BBQ brisket and craft cocktails
+10,Saffron Royale,Indian,4.8,900,Kalyani Nagar,Fine Dining,False,55,Royal Mughlai cuisine with live music experience
+11,Taco Fiesta,Mexican,4.0,350,Viman Nagar,Casual,True,30,Loaded tacos and burritos with smoky salsa
+12,Green Bowl,Healthy,4.5,450,Baner,Casual,True,35,Nourishing grain bowls and cold-pressed juices
+13,Pho Saigon,Vietnamese,4.3,380,Kothrud,Casual,False,40,Slow-cooked broths and Vietnamese street food
+14,The Curry Club,Indian,4.2,320,Wakad,Casual,True,35,Regional Indian curries from all 29 states
+15,Pasta e Basta,Italian,4.6,550,Boat Club Road,Fine Dining,True,45,Michelin-inspired pasta and Italian wines
+16,McBurger Diner,American,3.8,150,Hadapsar,Fast Food,False,15,Classic burgers and loaded fries since 1995
+17,Wok This Way,Chinese,4.1,280,Aundh,Casual,True,30,Farm-to-wok seasonal Chinese cuisine
+18,Tandoor Express,Indian,4.3,200,Shivaji Nagar,Fast Food,True,20,Freshly baked naans and smoky tandoor items
+19,The Olive Garden,Mediterranean,4.5,600,Koregaon Park,Fine Dining,True,50,Fresh mezze platters and wood-fired pita
+20,Seoul Kitchen,Korean,4.4,420,Viman Nagar,Casual,False,40,Authentic bibimbap and Korean BBQ at table
+21,Biryani Bros,Indian,4.7,280,Magarpatta,Casual,False,30,Award-winning dum biryani with salan
+22,Napoli Express,Italian,4.0,300,Pimpri,Fast Food,True,25,Quick-serve Neapolitan calzones and stromboli
+23,Fortune Garden,Chinese,4.2,320,Kalyani Nagar,Casual,False,35,Cantonese seafood and dim sum brunch
+24,Five Guys Style,American,4.3,350,Baner,Casual,False,25,Fully loaded customizable burgers and fries
+25,Wasabi Lab,Japanese,4.5,650,Koregaon Park,Fine Dining,False,55,Modern Japanese with molecular gastronomy

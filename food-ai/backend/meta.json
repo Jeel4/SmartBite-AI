@@ -1,0 +1,35 @@
+{
+  "feature_cols": [
+    "cuisine_enc",
+    "rating",
+    "price",
+    "type_enc",
+    "veg_enc",
+    "votes_norm"
+  ],
+  "cuisine_classes": [
+    "American",
+    "Chinese",
+    "Healthy",
+    "Indian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Mediterranean",
+    "Mexican",
+    "Vietnamese"
+  ],
+  "type_classes": [
+    "Casual",
+    "Fast Food",
+    "Fine Dining"
+  ],
+  "n_restaurants": 119,
+  "n_neighbors": 15,
+  "votes_max": 6543,
+  "eval": {
+    "avg_neighbor_distance": 1.3833,
+    "cuisine_coverage_pct": 70.0,
+    "avg_diversity": 1.7
+  }
+}

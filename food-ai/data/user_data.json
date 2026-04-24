@@ -1,0 +1,32 @@
+{
+  "users": {
+    "user_001": {
+      "name": "Demo User",
+      "preferences": {
+        "favorite_cuisines": ["Indian", "Italian"],
+        "avg_budget": 350,
+        "preferred_type": "Casual",
+        "vegetarian": false
+      },
+      "history": [
+        {"restaurant_id": 1, "rating": 5, "timestamp": "2026-04-15"},
+        {"restaurant_id": 7, "rating": 4, "timestamp": "2026-04-10"},
+        {"restaurant_id": 21, "rating": 5, "timestamp": "2026-04-05"}
+      ],
+      "liked": [1, 7, 10, 21],
+      "disliked": [16]
+    }
+  },
+  "cuisine_graph": {
+    "Indian": ["Mughlai", "South Indian", "Street Food", "Biryani"],
+    "Italian": ["Mediterranean", "Pizza", "Pasta", "French"],
+    "Chinese": ["Japanese", "Korean", "Vietnamese", "Thai"],
+    "American": ["Mexican", "BBQ", "Fast Food", "Burgers"],
+    "Japanese": ["Korean", "Chinese", "Asian"],
+    "Mexican": ["American", "Latin"],
+    "Mediterranean": ["Italian", "Middle Eastern", "Greek"],
+    "Korean": ["Japanese", "Chinese"],
+    "Vietnamese": ["Chinese", "Thai"],
+    "Healthy": ["Mediterranean", "Japanese", "Vegan"]
+  }
+}

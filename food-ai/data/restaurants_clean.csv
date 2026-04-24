@@ -1,0 +1,120 @@
+id,name,cuisine,rating,price,location,type,votes,vegetarian,delivery_time,description,cuisine_enc,type_enc,veg_enc,votes_norm
+1,Spice Garden,Indian,4.5,250,Koregaon Park,Casual,1423,True,30,Authentic North Indian curries with aromatic spices and freshly baked naans,3,0,1,0.21748433440317896
+2,La Bella Italia,Italian,4.3,600,Kalyani Nagar,Fine Dining,876,False,45,Handcrafted pasta and wood-fired pizzas inspired by Neapolitan traditions,4,2,0,0.1338835396607061
+3,Dragon Palace,Chinese,4.1,350,Viman Nagar,Casual,654,False,35,Traditional dim sum and wok-tossed specialties with authentic Cantonese sauces,1,0,0,0.09995414947271894
+4,Burger Barn,American,4.0,200,Wakad,Fast Food,2341,False,20,Juicy smash burgers with secret sauce and crispy shoestring fries,0,1,0,0.357786947883234
+5,Zen Garden,Japanese,4.6,700,Baner,Fine Dining,432,False,50,Omakase sushi and slow-cooked ramen crafted by master chefs,5,2,0,0.06602475928473177
+6,Mumbai Masala,Indian,4.4,180,Hadapsar,Fast Food,3210,True,25,Street-style chaats vada pav and iconic Mumbai specialties,3,1,1,0.49060064190738195
+7,Pizza Pronto,Italian,4.2,400,Hinjewadi,Casual,1102,True,30,Crispy thin-crust pizzas with farm-fresh toppings and basil oil drizzle,4,0,1,0.16842427021244077
+8,Chopstick House,Chinese,3.9,300,Pimpri,Casual,543,True,40,Vegetarian-friendly Chinese with mock meats and seasonal tofu specials,1,0,1,0.08298945437872536
+9,The Smokehouse,American,4.7,800,Koregaon Park,Fine Dining,765,False,60,Premium BBQ brisket craft cocktails and authentic deep South hospitality,0,2,0,0.11691884456671252
+10,Saffron Royale,Indian,4.8,900,Kalyani Nagar,Fine Dining,921,False,55,Royal Mughlai cuisine served with live ghazal music and ornate ambience,3,2,0,0.14076111875286565
+11,Taco Fiesta,Mexican,4.0,350,Viman Nagar,Casual,678,True,30,Loaded tacos and burritos with smoky chipotle salsa and guacamole,8,0,1,0.10362219165520403
+12,Green Bowl,Healthy,4.5,450,Baner,Casual,843,True,35,Nourishing grain bowls acai smoothies and cold-pressed juices,2,0,1,0.12883998165978908
+13,Pho Saigon,Vietnamese,4.3,380,Kothrud,Casual,312,False,40,Slow-cooked broths and authentic Vietnamese street food traditions,9,0,0,0.04768454837230628
+14,The Curry Club,Indian,4.2,320,Wakad,Casual,1567,True,35,Regional Indian curries from every state served in one vibrant kitchen,3,0,1,0.23949258749808955
+15,Pasta e Basta,Italian,4.6,550,Boat Club Road,Fine Dining,654,True,45,Michelin-inspired house-made pasta with a curated Italian wine list,4,2,1,0.09995414947271894
+16,McBurger Diner,American,3.8,150,Hadapsar,Fast Food,4321,False,15,Classic burgers and loaded fries in a retro American diner setting,0,1,0,0.6604004279382546
+17,Wok This Way,Chinese,4.1,280,Aundh,Casual,432,True,30,Farm-to-wok seasonal Chinese cuisine crafted without MSG,1,0,1,0.06602475928473177
+18,Tandoor Express,Indian,4.3,200,Shivaji Nagar,Fast Food,2109,True,20,Freshly baked naans and smoky tandoor specials made to order,3,1,1,0.32232920678587806
+19,The Olive Garden,Mediterranean,4.5,600,Koregaon Park,Fine Dining,387,True,50,Fresh mezze platters wood-fired pita and curated Levantine wines,7,2,1,0.059147180192572216
+20,Seoul Kitchen,Korean,4.4,420,Viman Nagar,Casual,543,False,40,Authentic bibimbap and Korean BBQ grilled right at your table,6,0,0,0.08298945437872536
+21,Biryani Bros,Indian,4.7,280,Magarpatta,Casual,3421,False,30,Award-winning slow dum biryani served with mirchi ka salan,3,0,0,0.5228488460950634
+22,Napoli Express,Italian,4.0,300,Pimpri,Fast Food,765,True,25,Quick-serve Neapolitan calzones and stromboli fresh from the oven,4,1,1,0.11691884456671252
+23,Fortune Garden,Chinese,4.2,320,Kalyani Nagar,Casual,876,False,35,Cantonese seafood specialties and weekend dim sum brunch experience,1,0,0,0.1338835396607061
+24,Five Guys Style,American,4.3,350,Baner,Casual,1234,False,25,Fully customizable hand-packed burgers with fresh-cut fries,0,0,0,0.18859850221610883
+25,Wasabi Lab,Japanese,4.5,650,Koregaon Park,Fine Dining,298,False,55,Modern Japanese cuisine meets molecular gastronomy in every dish,5,2,0,0.04554485709918998
+26,Dal Makhani House,Indian,4.6,220,Pune Camp,Casual,2876,True,30,Slow-simmered black lentil dal makhani with buttery naans and rice,3,0,1,0.4395537215344643
+27,Trattoria Roma,Italian,4.4,520,Kalyani Nagar,Casual,543,False,40,Roman-style trattoria with house-made tagliatelle and osso buco,4,0,0,0.08298945437872536
+28,Sichuan Spice,Chinese,4.3,390,Viman Nagar,Casual,654,False,35,Fiery Sichuan cuisine with mouth-numbing mala hot pot,1,0,0,0.09995414947271894
+29,Texas BBQ,American,4.5,750,Koregaon Park,Fine Dining,432,False,50,Texas-style slow-smoked meats with house-made BBQ sauce,0,2,0,0.06602475928473177
+30,Ramen Republic,Japanese,4.4,480,Baner,Casual,876,False,40,Rich tonkotsu and shoyu ramen with handmade noodles,5,0,0,0.1338835396607061
+31,Chole Bhature Co,Indian,4.3,150,Shivaji Nagar,Fast Food,3654,True,15,Fluffy bhature with spiced chickpea curry and fresh pickle,3,1,1,0.5584594222833562
+32,Margherita Milano,Italian,4.5,450,Hinjewadi,Casual,765,True,30,Classic Margherita and seasonal specials from a wood-fired oven,4,0,1,0.11691884456671252
+33,Peking Duck House,Chinese,4.6,550,Kalyani Nagar,Fine Dining,432,False,45,Signature Peking duck with thin pancakes and hoisin sauce,1,2,0,0.06602475928473177
+34,Shake Shack Style,American,4.2,300,Wakad,Fast Food,1876,False,20,Signature ShackBurger style patties with crinkle-cut fries,0,1,0,0.2867186305975852
+35,Sushi Zen,Japanese,4.7,720,Koregaon Park,Fine Dining,543,False,55,Omakase experience with seasonal sushi and sake pairings,5,2,0,0.08298945437872536
+36,Maa Ki Rasoi,Indian,4.5,200,Hadapsar,Casual,2109,True,30,Home-style Indian cooking with seasonal vegetables and dal tadka,3,0,1,0.32232920678587806
+37,Carbonara Club,Italian,4.3,500,Baner,Casual,654,False,40,Roman pasta classics including carbonara cacio e pepe and amatriciana,4,0,0,0.09995414947271894
+38,Golden Dragon,Chinese,4.0,280,Aundh,Casual,765,True,30,Classic Chinese takeaway with fried rice and Manchurian,1,0,1,0.11691884456671252
+39,Johnny Rockets Style,American,4.1,250,Pimpri,Fast Food,1432,False,20,1950s diner-style milkshakes and classic American burgers,0,1,0,0.2188598502216109
+40,Izakaya Tokyo,Japanese,4.4,580,Kalyani Nagar,Casual,432,False,45,Japanese pub-style small plates with yakitori and edamame,5,0,0,0.06602475928473177
+41,Rajasthani Rasoi,Indian,4.4,270,Shivaji Nagar,Casual,1876,True,35,Dal baati churma and laal maas from the royal kitchens of Rajasthan,3,0,1,0.2867186305975852
+42,Pizza Hut Classic,Italian,3.9,380,Hadapsar,Fast Food,3210,True,25,Classic pan pizzas with stuffed crust and garlic bread,4,1,1,0.49060064190738195
+43,Manchurian Street,Chinese,3.8,180,Pimpri,Fast Food,2345,True,20,Quick Chinese street food gobi Manchurian and spring rolls,1,1,1,0.3583982882469815
+44,Denny's Diner Style,American,3.9,220,Wakad,Fast Food,2109,False,20,All-day breakfast pancakes eggs Benedict and classic diner fare,0,1,0,0.32232920678587806
+45,Kaito Sushi Bar,Japanese,4.6,650,Baner,Fine Dining,321,False,50,Intimate sushi bar with chef's special omakase tasting menu,5,2,0,0.049060064190738197
+46,Punjabi Dhaba,Indian,4.2,170,Hadapsar,Fast Food,4321,False,20,Authentic Punjabi dhaba experience with sarson da saag and makki roti,3,1,0,0.6604004279382546
+47,Linguine Love,Italian,4.5,530,Koregaon Park,Fine Dining,432,True,45,Handmade fresh pasta with seasonal truffle and mushroom sauces,4,2,1,0.06602475928473177
+48,Kung Fu Kitchen,Chinese,4.1,310,Viman Nagar,Casual,876,False,35,Wok-tossed kung pao dishes and steamed dim sum baskets,1,0,0,0.1338835396607061
+49,Cowboy Grill,American,4.3,680,Koregaon Park,Fine Dining,321,False,55,Open-flame grilled steaks with cowboy butter and loaded baked potato,0,2,0,0.049060064190738197
+50,Katsu House,Japanese,4.3,420,Magarpatta,Casual,543,False,40,Japanese katsu curry with golden-fried pork and chicken cutlets,5,0,0,0.08298945437872536
+51,Biryani Baadshah,Indian,4.6,300,Magarpatta,Casual,2987,False,30,Hyderabadi dum biryani with raita and salan served in earthen pots,3,0,0,0.4565184166284579
+52,Pesto Palace,Italian,4.4,490,Kalyani Nagar,Casual,654,True,35,Ligurian-style pesto pasta with pine nuts and freshly grated parmesan,4,0,1,0.09995414947271894
+53,Dim Sum Dynasty,Chinese,4.5,400,Baner,Casual,765,True,35,Premium dim sum with 30-plus varieties steamed fried and baked,1,0,1,0.11691884456671252
+54,Memphis Blues,American,4.6,720,Koregaon Park,Fine Dining,432,False,55,Memphis-style pulled pork ribs and tangy coleslaw with corn bread,0,2,0,0.06602475928473177
+55,Yakitori Station,Japanese,4.2,380,Aundh,Casual,543,False,40,Charcoal-grilled yakitori skewers with sake and Japanese whisky,5,0,0,0.08298945437872536
+56,Sabudana Special,Indian,4.1,130,Shivaji Nagar,Fast Food,2109,True,15,Maharashtra specialties sabudana khichdi thalipeeth and poha,3,1,1,0.32232920678587806
+57,Sicilian Secrets,Italian,4.7,620,Koregaon Park,Fine Dining,321,False,50,Sicilian-inspired arancini freshly made cannoli and seafood pasta,4,2,0,0.049060064190738197
+59,In-N-Out Style,American,4.4,220,Hinjewadi,Fast Food,3210,False,20,California-style double-double burgers animal style with fresh fries,0,1,0,0.49060064190738195
+60,Mochi Cafe,Japanese,4.3,350,Baner,Casual,654,True,35,Japanese mochi desserts matcha lattes and light Japanese snacks,5,0,1,0.09995414947271894
+61,Kerala Kitchen,Indian,4.5,280,Kothrud,Casual,1654,True,35,Authentic Kerala sadya with avial sambar and coconut-based curries,3,0,1,0.25278924040959805
+62,Focaccia Fresh,Italian,4.2,360,Wakad,Casual,543,True,30,Ligurian-style focaccia with seasonal toppings and Italian cold cuts,4,0,1,0.08298945437872536
+63,Hot Wok Express,Chinese,3.9,200,Hadapsar,Fast Food,1876,True,20,Express Chinese stir-fry noodles fried rice and schezwan sauces,1,1,1,0.2867186305975852
+64,Roadhouse Grill,American,4.0,400,Pimpri,Casual,876,False,35,Route 66-inspired diner with BBQ chicken wings and loaded nachos,0,0,0,0.1338835396607061
+65,Udon House,Japanese,4.4,420,Viman Nagar,Casual,432,False,40,Freshly pulled udon noodles in dashi broth with tempura toppings,5,0,0,0.06602475928473177
+66,Chettinad Palace,Indian,4.6,350,Koregaon Park,Fine Dining,876,False,45,Fiery Chettinad chicken curry pepper fry and traditional banana leaf meals,3,2,0,0.1338835396607061
+67,Risotto Room,Italian,4.5,580,Kalyani Nagar,Fine Dining,432,True,50,Creamy seasonal risottos with porcini truffle and asparagus variations,4,2,1,0.06602475928473177
+68,Noodle Nation,Chinese,4.1,250,Magarpatta,Casual,1098,True,30,Hand-pulled Lanzhou-style beef noodles and traditional wonton soup,1,0,1,0.16781292984869325
+69,Craft Burger Co,American,4.5,420,Baner,Casual,1543,False,25,Craft beer-battered onion rings and signature wagyu patty burgers,0,0,0,0.23582454531560446
+70,Tempura Temptation,Japanese,4.4,500,Koregaon Park,Fine Dining,321,False,50,Light and crispy tempura with seasonal vegetables and fresh seafood,5,2,0,0.049060064190738197
+71,Idli Dosa Factory,Indian,4.3,120,Hadapsar,Fast Food,5432,True,15,South Indian breakfast staples crispy dosas fluffy idlis and sambar,3,1,1,0.8302002139691274
+72,Arancini Bar,Italian,4.3,480,Baner,Casual,432,True,35,Sicilian arancini balls with various fillings and house marinara dip,4,0,1,0.06602475928473177
+73,Shanghai Street,Chinese,4.2,300,Aundh,Casual,765,False,30,Shanghai soup dumplings xiaolongbao and scallion pancakes,1,0,0,0.11691884456671252
+74,BBQ Nation Style,American,4.4,550,Koregaon Park,Casual,1234,False,35,DIY live grill tables unlimited BBQ with Indian spice rubs,0,0,0,0.18859850221610883
+75,Miso Hungry,Japanese,4.3,400,Magarpatta,Casual,543,False,40,Homestyle Japanese miso soups gyoza and everyday comfort food,5,0,0,0.08298945437872536
+76,Thali Bhai,Indian,4.4,180,Shivaji Nagar,Fast Food,3876,True,20,Unlimited thali with 12-plus items rotis sabzi rice dal and dessert,3,1,1,0.5923888124713435
+77,Quattro Stagioni,Italian,4.6,650,Koregaon Park,Fine Dining,321,False,55,Four seasons Italian menu changing monthly with market-fresh produce,4,2,0,0.049060064190738197
+78,Pearly Dragon,Chinese,4.3,370,Kalyani Nagar,Casual,654,False,35,Cantonese roasted meats char siu and crispy duck with rice,1,0,0,0.09995414947271894
+79,Smokehouse Deli,American,4.2,480,Baner,Casual,876,False,35,New York-style deli sandwiches cold cuts pastrami and cheesecake,0,0,0,0.1338835396607061
+80,Gyoza Garden,Japanese,4.5,440,Viman Nagar,Casual,654,True,35,Pan-fried and steamed gyoza dumplings with homemade dipping sauces,5,0,1,0.09995414947271894
+81,Andhra Spice,Indian,4.5,200,Hadapsar,Casual,2109,False,30,Spicy Andhra cuisine gongura mutton pesarattu and hyderabadi curries,3,0,0,0.32232920678587806
+82,Gnocchi House,Italian,4.4,520,Kalyani Nagar,Fine Dining,432,True,45,Handmade potato gnocchi with gorgonzola sage butter and truffle oil,4,2,1,0.06602475928473177
+83,Yum Cha Palace,Chinese,4.4,420,Koregaon Park,Casual,876,True,35,Weekend yum cha brunch with 40-plus dim sum varieties,1,0,1,0.1338835396607061
+84,Brisket & Bones,American,4.7,850,Koregaon Park,Fine Dining,321,False,60,18-hour smoked Texas brisket with house pickles and jalapeño cornbread,0,2,0,0.049060064190738197
+85,Shabu Shabu World,Japanese,4.5,600,Baner,Fine Dining,298,False,55,Japanese hot pot with wagyu beef premium vegetables and ponzu dips,5,2,0,0.04554485709918998
+86,Vada Pav Express,Indian,4.2,80,Shivaji Nagar,Fast Food,6543,True,10,Mumbai's iconic vada pav with three chutneys and fried green chilli,3,1,1,1.0
+87,Bruschetta Bar,Italian,4.1,320,Wakad,Casual,543,True,30,Fresh bruschetta with seasonal toppings antipasto platters and Aperol,4,0,1,0.08298945437872536
+88,Spring Roll Station,Chinese,3.9,170,Hadapsar,Fast Food,2345,True,15,Fresh and fried spring rolls with wonton soup and sweet chilli sauce,1,1,1,0.3583982882469815
+89,Waffle House Style,American,3.8,200,Pimpri,Fast Food,1876,False,20,All-day waffles with maple syrup crispy bacon and hash browns,0,1,0,0.2867186305975852
+90,Soba Noodle Bar,Japanese,4.3,390,Magarpatta,Casual,432,False,40,Hand-cut buckwheat soba noodles in cold and hot broth preparations,5,0,0,0.06602475928473177
+91,Litti Chokha Hub,Indian,4.3,150,Hadapsar,Fast Food,1654,True,20,Bihar specialties litti chokha sattu paratha and thandai,3,1,1,0.25278924040959805
+92,Cannelloni Corner,Italian,4.4,490,Aundh,Casual,432,True,35,Baked cannelloni with ricotta spinach filling and house tomato sauce,4,0,1,0.06602475928473177
+93,Dragon Noodle Bar,Chinese,4.2,290,Baner,Casual,876,False,30,Spicy Sichuan dan dan noodles and braised pork belly rice bowls,1,0,0,0.1338835396607061
+94,Tex Mex Grill,American,4.1,380,Viman Nagar,Casual,765,True,30,Tex-Mex favourites quesadillas fajitas loaded nachos and frozen margaritas,0,0,1,0.11691884456671252
+95,Teriyaki Temple,Japanese,4.4,460,Koregaon Park,Casual,543,False,40,Glazed teriyaki chicken and salmon bowls with steamed rice and pickles,5,0,0,0.08298945437872536
+96,Masala Dosa Junction,Indian,4.4,110,Kothrud,Fast Food,4321,True,15,Crispy Mysore masala dosas with coconut chutney and sambar,3,1,1,0.6604004279382546
+97,Tortellini Terrace,Italian,4.5,560,Koregaon Park,Fine Dining,321,True,45,Handmade stuffed tortellini in sage brown butter or rich bolognese,4,2,1,0.049060064190738197
+98,Wonton Wonders,Chinese,4.3,310,Magarpatta,Casual,765,False,30,Cantonese wonton noodle soup and Hong Kong-style milk tea,1,0,0,0.11691884456671252
+99,Nashville Hot Chicken,American,4.5,420,Baner,Casual,1098,False,25,Spicy Nashville hot chicken sandwiches with pickles and coleslaw,0,0,0,0.16781292984869325
+100,Tempeh Kitchen,Japanese,4.2,380,Wakad,Casual,432,True,35,Plant-based Japanese bowls with tempeh teriyaki miso soup and pickles,5,0,1,0.06602475928473177
+101,Goan Fish Curry,Indian,4.6,320,Viman Nagar,Casual,1234,False,35,Authentic Goan fish curry with kokum solkadi and steamed rice,3,0,0,0.18859850221610883
+102,Lasagna Lounge,Italian,4.3,470,Baner,Casual,543,True,35,Classic and creative lasagna varieties with fresh pasta and house sauce,4,0,1,0.08298945437872536
+103,Wonton Soup Bar,Chinese,4.0,240,Pimpri,Casual,654,True,30,Comforting wonton soups with handmade dumplings and bok choy,1,0,1,0.09995414947271894
+104,Burger Theory,American,4.3,360,Magarpatta,Casual,1098,False,25,Science of the perfect patty – smashed aged beef with artisan buns,0,0,0,0.16781292984869325
+105,Ramen Lab,Japanese,4.6,520,Koregaon Park,Casual,654,False,40,Experimental ramen with rotating seasonal broths and premium toppings,5,0,0,0.09995414947271894
+106,Saoji Nagpur,Indian,4.5,250,Hadapsar,Casual,1876,False,30,Fiery Nagpur-style saoji mutton curry with thick spice-laden gravy,3,0,0,0.2867186305975852
+107,Caprese & Co,Italian,4.4,440,Kalyani Nagar,Casual,432,True,30,Fresh caprese salads burrata and light Italian plates with natural wine,4,0,1,0.06602475928473177
+108,Imperial Garden,Chinese,4.5,480,Koregaon Park,Fine Dining,543,False,45,Imperial Cantonese cuisine abalone shark fin soup and Peking duck,1,2,0,0.08298945437872536
+109,Cheesesteak Central,American,4.2,310,Wakad,Casual,876,False,30,Philadelphia-style cheesesteak sandwiches with Whiz and grilled onions,0,0,0,0.1338835396607061
+110,Yakitori Alley,Japanese,4.3,400,Aundh,Casual,432,False,35,Street-style charcoal yakitori with 20-plus skewer varieties,5,0,0,0.06602475928473177
+111,Rajma Chawal King,Indian,4.3,140,Shivaji Nagar,Fast Food,2987,True,15,Classic Punjabi rajma chawal with jeera rice and pickle,3,1,1,0.4565184166284579
+112,Fettuccine Friends,Italian,4.2,400,Baner,Casual,543,True,30,Fettuccine Alfredo carbonara and aglio olio with freshly grated parmesan,4,0,1,0.08298945437872536
+113,Mapo Tofu House,Chinese,4.4,340,Viman Nagar,Casual,654,True,30,Sichuan mapo tofu kung pao paneer and vegetarian Chinese specialties,1,0,1,0.09995414947271894
+114,Wing Commander,American,4.4,380,Hinjewadi,Casual,1432,False,25,18 sauces of chicken wings with craft beer pairings and loaded fries,0,0,0,0.2188598502216109
+115,Tonkotsu Tales,Japanese,4.5,540,Kalyani Nagar,Casual,543,False,40,Rich Hakata-style tonkotsu ramen with chashu pork and ramen eggs,5,0,0,0.08298945437872536
+116,Mutton Biryani Masters,Indian,4.7,350,Magarpatta,Casual,3210,False,35,Slow-cooked mutton dum biryani with whole spices and caramelized onions,3,0,0,0.49060064190738195
+117,Pizza della Nonna,Italian,4.6,580,Koregaon Park,Fine Dining,321,True,50,Grandmother-style Italian recipes with heirloom tomatoes and fresh herbs,4,2,1,0.049060064190738197
+118,Mongolian Grill,Chinese,4.2,360,Baner,Casual,765,False,35,Build-your-own Mongolian stir-fry bowl with fresh proteins and sauces,1,0,0,0.11691884456671252
+119,Diner Deluxe,American,4.1,280,Kothrud,Casual,876,False,30,Classic all-American diner with blue plate specials and milkshake bar,0,0,0,0.1338835396607061
+120,Bento Box,Japanese,4.3,350,Wakad,Casual,543,False,35,Japanese bento boxes with balanced portions of rice protein and sides,5,0,0,0.08298945437872536
